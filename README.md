@@ -1,16 +1,23 @@
-# puntoventa
+# Punto de Venta Flutter
 
-A new Flutter project.
+Repositorio de apoyo para taller o practica de desarrollo de una aplicacion de punto de venta con Flutter.
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+Mostrar una base funcional para trabajar interfaces, navegacion y organizacion de pantallas relacionadas con un flujo de venta.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contenido
+
+- Pantallas base para punto de venta
+- Practica de formularios y componentes
+- Estructura de proyecto Flutter
+- Material para ensenanza o demostracion
+
+## Contexto
+
+Proyecto usado como recurso didactico para aprender y explicar desarrollo movil.
